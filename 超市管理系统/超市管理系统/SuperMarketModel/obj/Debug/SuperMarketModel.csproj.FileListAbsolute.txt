@@ -1,0 +1,72 @@
+E:\VS练习1\1VS练习2高级\1.超市管理系统(数据库做的)\SuperMarketModel\bin\Debug\SuperMarketModel.dll
+E:\VS练习1\1VS练习2高级\1.超市管理系统(数据库做的)\SuperMarketModel\bin\Debug\SuperMarketModel.pdb
+E:\VS练习1\1VS练习2高级\1.超市管理系统(数据库做的)\SuperMarketModel\obj\Debug\SuperMarketModel.csprojAssemblyReference.cache
+E:\VS练习1\1VS练习2高级\1.超市管理系统(数据库做的)\SuperMarketModel\obj\Debug\SuperMarketModel.dll
+E:\VS练习1\1VS练习2高级\1.超市管理系统(数据库做的)\SuperMarketModel\obj\Debug\SuperMarketModel.pdb
+C:\Users\随遇而安\Desktop\1.超市管理系统(数据库做的)\SuperMarketModel\bin\Debug\SuperMarketModel.dll
+C:\Users\随遇而安\Desktop\1.超市管理系统(数据库做的)\SuperMarketModel\bin\Debug\SuperMarketModel.pdb
+C:\Users\随遇而安\Desktop\1.超市管理系统(数据库做的)\SuperMarketModel\obj\Debug\SuperMarketModel.csproj.CoreCompileInputs.cache
+C:\Users\随遇而安\Desktop\1.超市管理系统(数据库做的)\SuperMarketModel\obj\Debug\SuperMarketModel.dll
+C:\Users\随遇而安\Desktop\1.超市管理系统(数据库做的)\SuperMarketModel\obj\Debug\SuperMarketModel.pdb
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketModel\bin\Debug\SuperMarketModel.dll.config
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketModel\bin\Debug\SuperMarketModel.dll
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketModel\bin\Debug\SuperMarketModel.pdb
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketModel\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketModel\bin\Debug\System.Buffers.dll
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketModel\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketModel\bin\Debug\System.Memory.dll
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketModel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketModel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketModel\bin\Debug\Microsoft.ApplicationInsights.pdb
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketModel\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketModel\bin\Debug\System.Buffers.xml
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketModel\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketModel\bin\Debug\System.Memory.xml
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketModel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketModel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketModel\obj\Debug\SuperMarketModel.csprojAssemblyReference.cache
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketModel\obj\Debug\SuperMarketModel.csproj.CoreCompileInputs.cache
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketModel\obj\Debug\SuperMarketModel.csproj.CopyComplete
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketModel\obj\Debug\SuperMarketModel.dll
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketModel\obj\Debug\SuperMarketModel.pdb
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketModel\bin\Debug\SuperMarketModel.dll.config
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketModel\bin\Debug\SuperMarketModel.dll
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketModel\bin\Debug\SuperMarketModel.pdb
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketModel\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketModel\bin\Debug\System.Buffers.dll
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketModel\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketModel\bin\Debug\System.Memory.dll
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketModel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketModel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketModel\bin\Debug\Microsoft.ApplicationInsights.pdb
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketModel\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketModel\bin\Debug\System.Buffers.xml
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketModel\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketModel\bin\Debug\System.Memory.xml
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketModel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketModel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketModel\obj\Debug\SuperMarketModel.csprojAssemblyReference.cache
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketModel\obj\Debug\SuperMarketModel.csproj.CoreCompileInputs.cache
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketModel\obj\Debug\SuperMarketModel.csproj.CopyComplete
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketModel\obj\Debug\SuperMarketModel.dll
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketModel\obj\Debug\SuperMarketModel.pdb
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketModel\bin\Debug\SuperMarketModel.dll.config
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketModel\bin\Debug\SuperMarketModel.dll
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketModel\bin\Debug\SuperMarketModel.pdb
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketModel\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketModel\bin\Debug\System.Buffers.dll
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketModel\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketModel\bin\Debug\System.Memory.dll
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketModel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketModel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketModel\bin\Debug\Microsoft.ApplicationInsights.pdb
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketModel\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketModel\bin\Debug\System.Buffers.xml
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketModel\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketModel\bin\Debug\System.Memory.xml
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketModel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketModel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketModel\obj\Debug\SuperMarketModel.csproj.CoreCompileInputs.cache
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketModel\obj\Debug\SuperMarketModel.csproj.CopyComplete
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketModel\obj\Debug\SuperMarketModel.dll
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketModel\obj\Debug\SuperMarketModel.pdb

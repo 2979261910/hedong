@@ -1,0 +1,93 @@
+E:\VS练习1\1VS练习2高级\1.超市管理系统(数据库做的)\SuperMarketCommon\bin\Debug\SuperMarketCommon.dll
+E:\VS练习1\1VS练习2高级\1.超市管理系统(数据库做的)\SuperMarketCommon\bin\Debug\SuperMarketCommon.pdb
+E:\VS练习1\1VS练习2高级\1.超市管理系统(数据库做的)\SuperMarketCommon\obj\Debug\SuperMarketCommon.SuperTextbox.resources
+E:\VS练习1\1VS练习2高级\1.超市管理系统(数据库做的)\SuperMarketCommon\obj\Debug\SuperMarketCommon.csproj.GenerateResource.cache
+E:\VS练习1\1VS练习2高级\1.超市管理系统(数据库做的)\SuperMarketCommon\obj\Debug\SuperMarketCommon.dll
+E:\VS练习1\1VS练习2高级\1.超市管理系统(数据库做的)\SuperMarketCommon\obj\Debug\SuperMarketCommon.pdb
+E:\VS练习1\1VS练习2高级\1.超市管理系统(数据库做的)\SuperMarketCommon\obj\Debug\SuperMarketCommon.csprojAssemblyReference.cache
+C:\Users\随遇而安\Desktop\1.超市管理系统(数据库做的)\SuperMarketCommon\bin\Debug\SuperMarketCommon.dll
+C:\Users\随遇而安\Desktop\1.超市管理系统(数据库做的)\SuperMarketCommon\bin\Debug\SuperMarketCommon.pdb
+C:\Users\随遇而安\Desktop\1.超市管理系统(数据库做的)\SuperMarketCommon\obj\Debug\SuperMarketCommon.csprojAssemblyReference.cache
+C:\Users\随遇而安\Desktop\1.超市管理系统(数据库做的)\SuperMarketCommon\obj\Debug\SuperMarketCommon.SuperTextbox.resources
+C:\Users\随遇而安\Desktop\1.超市管理系统(数据库做的)\SuperMarketCommon\obj\Debug\SuperMarketCommon.csproj.GenerateResource.cache
+C:\Users\随遇而安\Desktop\1.超市管理系统(数据库做的)\SuperMarketCommon\obj\Debug\SuperMarketCommon.csproj.CoreCompileInputs.cache
+C:\Users\随遇而安\Desktop\1.超市管理系统(数据库做的)\SuperMarketCommon\obj\Debug\SuperMarketCommon.dll
+C:\Users\随遇而安\Desktop\1.超市管理系统(数据库做的)\SuperMarketCommon\obj\Debug\SuperMarketCommon.pdb
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketCommon\bin\Debug\SuperMarketCommon.dll.config
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketCommon\bin\Debug\SuperMarketCommon.dll
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketCommon\bin\Debug\SuperMarketCommon.pdb
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketCommon\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketCommon\bin\Debug\System.Buffers.dll
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketCommon\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketCommon\bin\Debug\System.Memory.dll
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketCommon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketCommon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketCommon\bin\Debug\Microsoft.ApplicationInsights.pdb
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketCommon\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketCommon\bin\Debug\System.Buffers.xml
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketCommon\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketCommon\bin\Debug\System.Memory.xml
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketCommon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketCommon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketCommon\obj\Debug\SuperMarketCommon.csprojAssemblyReference.cache
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketCommon\obj\Debug\SuperMarketCommon.SuperTextbox.resources
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketCommon\obj\Debug\SuperMarketCommon.csproj.GenerateResource.cache
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketCommon\obj\Debug\SuperMarketCommon.csproj.CoreCompileInputs.cache
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketCommon\obj\Debug\SuperMarketCommon.csproj.CopyComplete
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketCommon\obj\Debug\SuperMarketCommon.dll
+C:\Users\随遇而安\Desktop\超市管理系统 (1)\SuperMarketCommon\obj\Debug\SuperMarketCommon.pdb
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\bin\Debug\SuperMarketCommon.dll.config
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\bin\Debug\SuperMarketCommon.dll
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\bin\Debug\SuperMarketCommon.pdb
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\bin\Debug\SuperMarketModel.dll
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\bin\Debug\System.Buffers.dll
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\bin\Debug\System.Memory.dll
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\bin\Debug\SuperMarketModel.pdb
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\bin\Debug\SuperMarketModel.dll.config
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\bin\Debug\Microsoft.ApplicationInsights.pdb
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\bin\Debug\System.Buffers.xml
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\bin\Debug\System.Memory.xml
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\obj\Debug\SuperMarketCommon.csprojAssemblyReference.cache
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\obj\Debug\SuperMarketCommon.SuperTextbox.resources
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\obj\Debug\SuperMarketCommon.csproj.GenerateResource.cache
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\obj\Debug\SuperMarketCommon.csproj.CoreCompileInputs.cache
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\obj\Debug\SuperMarketCommon.csproj.CopyComplete
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\obj\Debug\SuperMarketCommon.dll
+C:\Users\随遇而安\Desktop\超市管理系统\SuperMarketCommon\obj\Debug\SuperMarketCommon.pdb
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\bin\Debug\SuperMarketCommon.dll.config
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\bin\Debug\SuperMarketCommon.dll
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\bin\Debug\SuperMarketCommon.pdb
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\bin\Debug\SuperMarketModel.dll
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\bin\Debug\System.Buffers.dll
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\bin\Debug\System.Memory.dll
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\bin\Debug\SuperMarketModel.pdb
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\bin\Debug\SuperMarketModel.dll.config
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\bin\Debug\Microsoft.ApplicationInsights.pdb
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\bin\Debug\System.Buffers.xml
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\bin\Debug\System.Memory.xml
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\obj\Debug\SuperMarketCommon.csprojAssemblyReference.cache
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\obj\Debug\SuperMarketCommon.SuperTextbox.resources
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\obj\Debug\SuperMarketCommon.csproj.GenerateResource.cache
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\obj\Debug\SuperMarketCommon.csproj.CoreCompileInputs.cache
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\obj\Debug\SuperMarketCommon.csproj.CopyComplete
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\obj\Debug\SuperMarketCommon.dll
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\obj\Debug\SuperMarketCommon.pdb
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\bin\Debug\log4net.dll
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\obj\Debug\SuperMarketCommon.PageController.resources
+C:\Users\随遇而安\Desktop\超市管理系统\超市管理系统\SuperMarketCommon\obj\Debug\SuperMarketCommon.Properties.Resources.resources
