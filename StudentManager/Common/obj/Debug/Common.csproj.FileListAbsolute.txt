@@ -1,0 +1,10 @@
+E:\Y11班\0228学员管理系统项目\code\StudentManager\Common\bin\Debug\Common.dll
+E:\Y11班\0228学员管理系统项目\code\StudentManager\Common\bin\Debug\Common.pdb
+E:\Y11班\0228学员管理系统项目\code\StudentManager\Common\obj\Debug\Common.dll
+E:\Y11班\0228学员管理系统项目\code\StudentManager\Common\obj\Debug\Common.pdb
+E:\Y11班\0228学员管理系统项目\code\StudentManager\Common\obj\Debug\Common.csprojAssemblyReference.cache
+E:\SQL练习\2020.2.28项目\StudentManager(1)\StudentManager\Common\bin\Debug\Common.dll
+E:\SQL练习\2020.2.28项目\StudentManager(1)\StudentManager\Common\bin\Debug\Common.pdb
+E:\SQL练习\2020.2.28项目\StudentManager(1)\StudentManager\Common\obj\Debug\Common.csprojAssemblyReference.cache
+E:\SQL练习\2020.2.28项目\StudentManager(1)\StudentManager\Common\obj\Debug\Common.dll
+E:\SQL练习\2020.2.28项目\StudentManager(1)\StudentManager\Common\obj\Debug\Common.pdb

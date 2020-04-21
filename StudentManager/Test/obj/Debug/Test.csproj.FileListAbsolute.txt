@@ -1,0 +1,12 @@
+E:\Y11班\0228学员管理系统项目\code\StudentManager\Test\bin\Debug\Test.exe.config
+E:\Y11班\0228学员管理系统项目\code\StudentManager\Test\bin\Debug\Test.exe
+E:\Y11班\0228学员管理系统项目\code\StudentManager\Test\bin\Debug\Test.pdb
+E:\Y11班\0228学员管理系统项目\code\StudentManager\Test\bin\Debug\Common.dll
+E:\Y11班\0228学员管理系统项目\code\StudentManager\Test\bin\Debug\Common.pdb
+E:\Y11班\0228学员管理系统项目\code\StudentManager\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\Y11班\0228学员管理系统项目\code\StudentManager\Test\obj\Debug\Test.Form1.resources
+E:\Y11班\0228学员管理系统项目\code\StudentManager\Test\obj\Debug\Test.Properties.Resources.resources
+E:\Y11班\0228学员管理系统项目\code\StudentManager\Test\obj\Debug\Test.csproj.GenerateResource.cache
+E:\Y11班\0228学员管理系统项目\code\StudentManager\Test\obj\Debug\Test.csproj.CopyComplete
+E:\Y11班\0228学员管理系统项目\code\StudentManager\Test\obj\Debug\Test.exe
+E:\Y11班\0228学员管理系统项目\code\StudentManager\Test\obj\Debug\Test.pdb

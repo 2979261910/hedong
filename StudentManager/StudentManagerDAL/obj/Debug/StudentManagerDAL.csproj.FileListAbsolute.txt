@@ -1,0 +1,16 @@
+E:\Y11班\0228学员管理系统项目\code\StudentManager\StudentManagerDAL\bin\Debug\StudentManagerDAL.dll
+E:\Y11班\0228学员管理系统项目\code\StudentManager\StudentManagerDAL\bin\Debug\StudentManagerDAL.pdb
+E:\Y11班\0228学员管理系统项目\code\StudentManager\StudentManagerDAL\bin\Debug\StudentManagerModel.dll
+E:\Y11班\0228学员管理系统项目\code\StudentManager\StudentManagerDAL\bin\Debug\StudentManagerModel.pdb
+E:\Y11班\0228学员管理系统项目\code\StudentManager\StudentManagerDAL\obj\Debug\StudentManagerDAL.csprojAssemblyReference.cache
+E:\Y11班\0228学员管理系统项目\code\StudentManager\StudentManagerDAL\obj\Debug\StudentManagerDAL.csproj.CopyComplete
+E:\Y11班\0228学员管理系统项目\code\StudentManager\StudentManagerDAL\obj\Debug\StudentManagerDAL.dll
+E:\Y11班\0228学员管理系统项目\code\StudentManager\StudentManagerDAL\obj\Debug\StudentManagerDAL.pdb
+E:\SQL练习\2020.2.28项目\StudentManager(1)\StudentManager\StudentManagerDAL\bin\Debug\StudentManagerDAL.dll
+E:\SQL练习\2020.2.28项目\StudentManager(1)\StudentManager\StudentManagerDAL\bin\Debug\StudentManagerDAL.pdb
+E:\SQL练习\2020.2.28项目\StudentManager(1)\StudentManager\StudentManagerDAL\bin\Debug\StudentManagerModel.dll
+E:\SQL练习\2020.2.28项目\StudentManager(1)\StudentManager\StudentManagerDAL\bin\Debug\StudentManagerModel.pdb
+E:\SQL练习\2020.2.28项目\StudentManager(1)\StudentManager\StudentManagerDAL\obj\Debug\StudentManagerDAL.csprojAssemblyReference.cache
+E:\SQL练习\2020.2.28项目\StudentManager(1)\StudentManager\StudentManagerDAL\obj\Debug\StudentManagerDAL.csproj.CopyComplete
+E:\SQL练习\2020.2.28项目\StudentManager(1)\StudentManager\StudentManagerDAL\obj\Debug\StudentManagerDAL.dll
+E:\SQL练习\2020.2.28项目\StudentManager(1)\StudentManager\StudentManagerDAL\obj\Debug\StudentManagerDAL.pdb
